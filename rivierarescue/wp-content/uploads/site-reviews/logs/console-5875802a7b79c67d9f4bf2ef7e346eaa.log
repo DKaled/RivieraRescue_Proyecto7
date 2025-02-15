@@ -1,0 +1,2 @@
+[2025-02-05 12:24:18] ERROR [Database:216] Can&#039;t create table `u856363392_P5WyA`.`wp_glsr_assigned_users` (errno: 121 &quot;Duplicate key on write or update&quot;)
+[2025-02-05 12:24:18] ERROR [Database:216] Can&#039;t create table `u856363392_P5WyA`.`wp_glsr_assigned_users` (errno: 121 &quot;Duplicate key on write or update&quot;)
